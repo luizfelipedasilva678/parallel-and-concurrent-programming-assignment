@@ -1,2 +1,3 @@
-# parallel-and-concurrent-programming-job
-Paralled and concurrent programing job
+# Parallel and concurrent programming assignment
+
+ Parallel and concurrent programming college assignment
